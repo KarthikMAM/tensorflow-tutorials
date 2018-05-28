@@ -12,6 +12,9 @@ conda --version
 conda create -n tensorflow
 source activate tensorflow
 
+## Install using conda
+conda install tensorflow
+
 ## Install tensorflow (without GPU support)
 pip3 install tensorflow
 
